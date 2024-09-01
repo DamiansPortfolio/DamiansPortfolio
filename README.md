@@ -1,3 +1,10 @@
+
+<div align="center">Hi 👋, I'm <span><a href="https://damiansportfolio.github.io">Damian!<a></span><div>
+
+<br/>
+  
+![](https://github.com/DamiansPortfolio/DamiansPortfolio/blob/main/pika_dance.gif)
+
 # 🧋 About Me:
 🏫 I’m currently working on getting my Bachelors in Computer Science.<br>📚 I’m currently spending my time focusing on learning web-development and machine learning & AI in my free time.<br>💬 Ask me about my favorite games, and what I like to do in my free time!<br>⚡ Fun fact about me is I am a twin!
 
