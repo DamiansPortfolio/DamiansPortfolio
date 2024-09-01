@@ -1,6 +1,3 @@
-![image](https://github.com/user-attachments/assets/b2e8a57f-0813-42dc-8543-ec4bcae90546)
-
-
 # 🧋 About Me:
 🏫 I’m currently working on getting my Bachelors in Computer Science.<br>📚 I’m currently spending my time focusing on learning web-development and machine learning & AI in my free time.<br>💬 Ask me about my favorite games, and what I like to do in my free time!<br>⚡ Fun fact about me is I am a twin!
 
